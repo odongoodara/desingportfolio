@@ -1,8 +1,8 @@
 <?php
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'portfolio_db');
+define('DB_HOST', 'sql202.infinityfree.com');
+define('DB_USER', 'if0_42486678');
+define('DB_PASS', 'IZ4zY6l9C1Mp9');
+define('DB_NAME', 'if0_42486678_portfolio_db');
 
 try {
     $pdo = new PDO("mysql:host=" . DB_HOST . ";dbname=" . DB_NAME, DB_USER, DB_PASS);
