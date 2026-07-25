@@ -1,4 +1,4 @@
-name: Deploy to InfinityFree
+name: desingportfolio.wuaze.com
 
 on:
   push:
