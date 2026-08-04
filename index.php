@@ -7,8 +7,8 @@ $images = $pdo->query("SELECT * FROM uploaded_images ORDER BY uploaded_at DESC")
 <section class="hero">
     <div class="hero-content">
         <span class="badge">Graphic Design</span>
-        <h1>Learn the Fundamentals & Principles</h1>
-        <p>with Practical Application</p>
+        <h1>design with odongo odara creative </h1>
+        <p>with highest Creativity concept</p>
         <div class="hero-stats">
             <div class="stat">
                 <span class="stat-number">100%</span>
