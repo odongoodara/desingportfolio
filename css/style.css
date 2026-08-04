@@ -421,30 +421,7 @@ marquee {
     margin-bottom: 40px;
 }
 
-.hero-stats {
-    display: flex;
-    justify-content: center;
-    gap: 60px;
-    margin-bottom: 40px;
-}
 
-.stat {
-    text-align: center;
-}
-
-.stat-number {
-    display: block;
-    font-size: 32px;
-    font-weight: 800;
-    color: #ff6b35;
-}
-
-.stat-label {
-    font-size: 14px;
-    color: #888;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
 
 .btn-primary {
     display: inline-block;
@@ -773,10 +750,6 @@ marquee {
         font-size: 36px;
     }
 
-    .hero-stats {
-        gap: 30px;
-        flex-wrap: wrap;
-    }
 
     .course-content {
         grid-template-columns: 1fr;

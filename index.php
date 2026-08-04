@@ -9,21 +9,7 @@ $images = $pdo->query("SELECT * FROM uploaded_images ORDER BY uploaded_at DESC")
         <span class="badge">Graphic Design</span>
         <h1>design with odongo odara creative </h1>
         <p>with highest Creativity concept</p>
-        <div class="hero-stats">
-            <div class="stat">
-                <span class="stat-number">100%</span>
-                <span class="stat-label">Live</span>
-            </div>
-            <div class="stat">
-                <span class="stat-number">20</span>
-                <span class="stat-label">Days</span>
-            </div>
-            <div class="stat">
-                <span class="stat-number">Live</span>
-                <span class="stat-label">Q&A</span>
-            </div>
-        </div>
-        <a href="#" class="btn-primary">Enroll Now</a>
+    
     </div>
 </section>
 
