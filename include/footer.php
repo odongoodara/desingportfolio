@@ -9,8 +9,10 @@
                         fredrickodara@gmail.com
                     </a>
                     <div class="social-links">
-                        <a href="#" aria-label="LinkedIn">🔗</a>
+                        <a href="https://www.linkedin.com/in/fredrick-odara-9919793a8/" aria-label="LinkedIn">🔗</a>
                         <a href="https://www.instagram.com/odongo_odara/" aria-label="Instagram">📷</a>
+                        <a href="https://www.instagram.com/odongo_odara/" aria-label="Facebook">📷</a>
+
                         <a href="#" aria-label="Analytics">📊</a>
                         <a href="#" aria-label="Location">📍</a>
                     </div>
