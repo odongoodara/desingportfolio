@@ -17,10 +17,9 @@
                 <ul class="nav-menu">
                     <li><a href="index.php" class="active">Home</a></li>
                     <li><a href="about.php">About Me</a></li>
-                    <li><a href="#">Recorded Courses</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
-                    <li><a href="#">Shop</a></li>
-                    <li><a href="#" class="nav-highlight">Live Course</a></li>
+                
+                
                 </ul>
                 <div class="hamburger">
                     <span></span>
