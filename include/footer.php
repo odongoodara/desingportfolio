@@ -12,7 +12,7 @@
     <a href="https://www.facebook.com/yourusername" target="_blank" aria-label="Facebook">
         <i class="fab fa-facebook-f"></i>
     </a>
-    <a href="https://www.instagram.com/yourusername/" target="_blank" aria-label="Instagram">
+    <a href="https://www.instagram.com/odongo_odara/" target="_blank" aria-label="Instagram">
         <i class="fab fa-instagram"></i>
     </a>
     <a href="https://www.tiktok.com/@yourusername" target="_blank" aria-label="TikTok">
@@ -21,7 +21,7 @@
     <a href="https://www.x.com/yourusername" target="_blank" aria-label="X (Twitter)">
         <i class="fab fa-x-twitter"></i>
     </a>
-    <a href="https://www.linkedin.com/in/yourusername/" target="_blank" aria-label="LinkedIn">
+    <a href="https://www.linkedin.com/in/odongo-odara-9919793a8/?isSelfProfile=true" target="_blank" aria-label="LinkedIn">
         <i class="fab fa-linkedin-in"></i>
     </a>
 </div>
