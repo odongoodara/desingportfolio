@@ -9,13 +9,22 @@
                         fredrickodara@gmail.com
                     </a>
                     <div class="social-links">
-                        <a href="https://www.linkedin.com/in/fredrick-odara-9919793a8/" aria-label="LinkedIn">🔗</a>
-                        <a href="https://www.instagram.com/odongo_odara/" aria-label="Instagram">📷</a>
-                        <a href="https://www.instagram.com/odongo_odara/" aria-label="Facebook">📷</a>
-
-                        <a href="#" aria-label="Analytics">📊</a>
-                        <a href="#" aria-label="Location">📍</a>
-                    </div>
+    <a href="https://www.facebook.com/yourusername" target="_blank" aria-label="Facebook">
+        <i class="fab fa-facebook-f"></i>
+    </a>
+    <a href="https://www.instagram.com/yourusername/" target="_blank" aria-label="Instagram">
+        <i class="fab fa-instagram"></i>
+    </a>
+    <a href="https://www.tiktok.com/@yourusername" target="_blank" aria-label="TikTok">
+        <i class="fab fa-tiktok"></i>
+    </a>
+    <a href="https://www.x.com/yourusername" target="_blank" aria-label="X (Twitter)">
+        <i class="fab fa-x-twitter"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/yourusername/" target="_blank" aria-label="LinkedIn">
+        <i class="fab fa-linkedin-in"></i>
+    </a>
+</div>
                 </div>
                 
                 <div class="footer-section">
