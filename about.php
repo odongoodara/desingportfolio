@@ -17,7 +17,7 @@
             </div>
             <div class="about-image">
                 <!-- CHANGE 'my-photo.jpg' TO YOUR ACTUAL FILE NAME -->
-                <img src="uploads/odongo.jp" alt="Your Name" class="about-profile-img">
+                <img src="uploads/odongo.jpeg" alt="Your Name" class="about-profile-img">
             </div>
         </div>
     </div>
