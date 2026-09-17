@@ -10,7 +10,7 @@
                     </a>
                     <div class="social-links">
                         <a href="#" aria-label="LinkedIn">🔗</a>
-                        <a href="#" aria-label="Instagram">📷</a>
+                        <a href="https://www.instagram.com/odongo_odara/" aria-label="Instagram">📷</a>
                         <a href="#" aria-label="Analytics">📊</a>
                         <a href="#" aria-label="Location">📍</a>
                     </div>
