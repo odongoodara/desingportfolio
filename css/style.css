@@ -900,7 +900,7 @@ marquee {
     justify-content: center;
     border-radius: 50%;
     background: white;
-    border: 1px solid #2a2a2a;
+    border: 1px solid #f7f7f7;
     font-size: 22px;
     text-decoration: none;
     transition: all 0.3s ease;
@@ -920,7 +920,7 @@ marquee {
 }
 
 .social-links a .fa-x-twitter {
-    color: #ffffff;
+    color: #0c0c0c;
 }
 
 .social-links a .fa-linkedin-in {
