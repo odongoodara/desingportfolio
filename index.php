@@ -64,7 +64,7 @@ $images = $pdo->query("SELECT * FROM uploaded_images ORDER BY uploaded_at DESC")
 </section>
 
 <!-- Live Course Section -->
-<section class="live-course">
+<!-- <section class="live-course">
     <div class="container">
         <div class="course-content">
             <div class="course-text">
@@ -87,7 +87,7 @@ $images = $pdo->query("SELECT * FROM uploaded_images ORDER BY uploaded_at DESC")
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Stats Section -->
 <section class="stats-section">
