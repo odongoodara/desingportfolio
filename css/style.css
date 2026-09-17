@@ -881,6 +881,10 @@ marquee {
 
 
 /* Social Links */
+/* ============================================ */
+/* SOCIAL LINKS - BRAND COLORS ALWAYS           */
+/* ============================================ */
+
 .social-links {
     display: flex;
     gap: 15px;
@@ -889,50 +893,60 @@ marquee {
 }
 
 .social-links a {
-    color: #d77d7d;
-    font-size: 20px;
-    width: 45px;
-    height: 45px;
+    width: 50px;
+    height: 50px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
     background: #1a1a1a;
     border: 1px solid #2a2a2a;
-    transition: all 0.3s ease;
+    font-size: 22px;
     text-decoration: none;
+    transition: all 0.3s ease;
 }
 
-.social-links a:hover {
-    transform: translateY(-5px);
-    color: #fff;
-    border-color: transparent;
-}
-
-/* Individual brand colors on hover */
-.social-links a:hover .fa-facebook-f {
+/* Brand colors — ALWAYS VISIBLE */
+.social-links a .fa-facebook-f {
     color: #1877F2;
 }
-.social-links a:hover .fa-instagram {
+
+.social-links a .fa-instagram {
     color: #E4405F;
 }
-.social-links a:hover .fa-tiktok {
-    color: #000000;
-    text-shadow: 2px 2px 0 #FE2C55, -2px -2px 0 #25F4EE;
+
+.social-links a .fa-tiktok {
+    color: #FE2C55;
 }
-.social-links a:hover .fa-x-twitter {
+
+.social-links a .fa-x-twitter {
     color: #ffffff;
 }
-.social-links a:hover .fa-linkedin-in {
+
+.social-links a .fa-linkedin-in {
     color: #0A66C2;
 }
 
-/* Optional: Colored borders on hover */
-.social-links a:nth-child(1):hover { border-color: #1877F2; box-shadow: 0 0 20px rgba(24, 119, 242, 0.3); }
-.social-links a:nth-child(2):hover { border-color: #E4405F; box-shadow: 0 0 20px rgba(228, 64, 95, 0.3); }
-.social-links a:nth-child(3):hover { border-color: #FE2C55; box-shadow: 0 0 20px rgba(254, 44, 85, 0.3); }
-.social-links a:nth-child(4):hover { border-color: #fff; box-shadow: 0 0 20px rgba(255, 255, 255, 0.3); }
-.social-links a:nth-child(5):hover { border-color: #0A66C2; box-shadow: 0 0 20px rgba(10, 102, 194, 0.3); }
+/* Hover effect — icon scales up */
+.social-links a:hover {
+    transform: translateY(-5px) scale(1.1);
+    background: #222;
+    border-color: #333;
+    box-shadow: 0 5px 20px rgba(255, 107, 53, 0.3);
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+    .social-links {
+        gap: 10px;
+    }
+
+    .social-links a {
+        width: 42px;
+        height: 42px;
+        font-size: 18px;
+    }
+}
 
 /* Responsive */
 @media (max-width: 480px) {
