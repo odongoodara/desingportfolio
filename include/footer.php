@@ -6,7 +6,7 @@
                 <div class="footer-section">
                     <h3>Let's Connect</h3>
                     <a href="mailto:designshala.co@gmail.com" class="footer-email">
-                        odongoodara@gmail.com
+                        fredrickodara@gmail.com
                     </a>
                     <div class="social-links">
                         <a href="#" aria-label="LinkedIn">🔗</a>
